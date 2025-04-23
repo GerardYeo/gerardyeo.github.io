@@ -3,7 +3,6 @@ layout: page
 title: "About me"
 ---
 
-![](/img/pic.png)
 
 <p align="center" width="100%">
     <img width="33%" src="/img/pic.png">
