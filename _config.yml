@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "gerard_cv.pdf", title: "CV"}
+  - {file: "img/gerard_cv.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gerardyeo4@gmail.com"}
