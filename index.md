@@ -4,8 +4,8 @@ title: "About me"
 ---
 
 
-<p align="center" width="100%">
-    <img width="33%" src="/img/pic.png">
+<p align="center">
+    <img width="50%" src="/img/pic.png">
 </p>
 
 I am currently a Ph.D. student under the Institute of Data Science in the National University of Singapore.
