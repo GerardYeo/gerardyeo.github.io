@@ -9,7 +9,7 @@ title: "About me"
 </p>
 
 <div style="text-align: center;">
-    <img width="100%" src="/img/pic.png">
+    <img width="40%" src="/img/pic.png">
 </div>
 
 I am currently a Ph.D. student under the Institute of Data Science in the National University of Singapore.
