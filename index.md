@@ -4,9 +4,7 @@ title: "About me"
 ---
 
 
-<p align="center">
-    <img width="50%" src="/img/pic.png">
-</p>
+
 
 <div style="text-align: center;">
     <img width="40%" src="/img/pic.png">
